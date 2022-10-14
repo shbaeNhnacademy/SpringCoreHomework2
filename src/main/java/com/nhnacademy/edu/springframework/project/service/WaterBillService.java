@@ -1,5 +1,5 @@
 package com.nhnacademy.edu.springframework.project.service;
 
 public interface WaterBillService {
-//    void
+    void calculate(long usage);
 }
