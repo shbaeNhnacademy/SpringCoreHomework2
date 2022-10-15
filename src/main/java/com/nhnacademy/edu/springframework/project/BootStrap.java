@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 public class BootStrap {
     public static void main(String[] args) {
-        String path = "data/Tariff_20220331.csv";
+        String path = "data/Tariff_20220331.json";
 
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(JavaConfig.class);
         BillRepository billRepository = context.getBean(BillRepository.class);

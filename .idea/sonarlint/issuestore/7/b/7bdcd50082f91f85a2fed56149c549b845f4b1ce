@@ -1,0 +1,15 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Äæ÷üÿÿÿÿ8Ú¦Þ¸½0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(— ŸÂýÿÿÿÿ8°ïä¸½0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ï¨‡˜8Ã¬ñ¸½0
+„
+java:S1128"bRemove this unused import 'com.nhnacademy.edu.springframework.project.report.DefaultResultReport'.(’ðÃ‰ùÿÿÿÿ8Û‘á¸½0
+Š
+java:S1128"hRemove this unused import 'com.nhnacademy.edu.springframework.project.repository.DefaultBillRepository'.(ÿ‘…Ãþÿÿÿÿ8Û‘á¸½0
+
+java:S1128	"]Remove this unused import 'com.nhnacademy.edu.springframework.project.service.CsvDataParser'.(õóµÖýÿÿÿÿ8Û‘á¸½0
+|
+java:S1128
+"ZRemove this unused import 'com.nhnacademy.edu.springframework.project.service.DataParser'.(ó¢»Êøÿÿÿÿ8Û‘á¸½0
+‰
+java:S1128"gRemove this unused import 'com.nhnacademy.edu.springframework.project.service.DefaultWaterBillService'.(éüÃæúÿÿÿÿ8Û‘á¸½0
