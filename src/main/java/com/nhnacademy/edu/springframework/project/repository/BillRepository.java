@@ -1,7 +1,11 @@
 package com.nhnacademy.edu.springframework.project.repository;
 
+import com.nhnacademy.edu.springframework.project.model.WaterBill;
+
+import java.util.Collection;
+
 public interface BillRepository {
     boolean load(String path);
 
-    long findFeeByUsage(long usage);
+    Collection<WaterBill> applyBillByUsage(long usage);
 }

@@ -38,6 +38,10 @@ public class WaterBill {
         WaterBill.price = price;
     }
 
+    public void setBillTotal(long billTotal) {
+        this.billTotal = billTotal;
+    }
+
     @Override
     public String toString() {
         return "WaterBill{" +
